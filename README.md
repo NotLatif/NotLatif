@@ -1,4 +1,4 @@
-# Hi there, I'm NotLatif 👋
+# Hi there, I'm Latif 👋
 
 - 📗 CS Engineering Student
 - 🔭 Currently working on a sveltekit interactive Restaurant Menu
