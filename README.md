@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi there, I'm NotLatif 👋
+
+- 📗 CS Engineering Student
+- 🔭 Currently working on a sveltekit interactive Restaurant Menu
+- ⚡ Passioned about computers and programming
+- 🌱 Currently learning about TS, Svelte5, Node, NoSQL
+
 
 <!--
 **NotLatif/NotLatif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
