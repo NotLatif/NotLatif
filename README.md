@@ -1,22 +1,20 @@
-# Hi there, I'm Latif 👋
+# Hello, I'm NotLatif 👋
 
-- 📗 CS Engineering Student
-- 🔭 Currently working on a sveltekit interactive Restaurant Menu
-- ⚡ Passioned about computers and programming
-- 🌱 Currently learning about TS, Svelte5, Node, NoSQL
+## 🚀 Full-stack developer | Bot enthusiast | Random script wizard
 
+I build whatever comes to mind, from web applications to automated bots and utility scripts.
 
-<!--
-**NotLatif/NotLatif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Tech Stack
+- Languages: C, Python, TypeScript, and others
+- Frontend: Svelte and more
+- Backend: Whatever gets the job done
+- Databases: Yes, those too
 
-Here are some ideas to get you started:
+### 🔭 What I Do
+- Create full-stack web applications that actually **work** and are **usable**
+- Develop bots that automate the boring stuff
+- Write scripts to solve problems you didn't know you had
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Philosophy
+Code should be elegant but practical. If it works and doesn't make future-me cry, I'm satisfied. <br />
+Websites should have good UX. If they don't, I'm leaving.
